@@ -27,6 +27,16 @@ html{
     scroll-behavior: smooth;
 }
 
+::-moz-selection { /* Code for Firefox */
+  color: red;
+  background: yellow;
+}
+
+::selection {
+  color: red;
+  background: yellow;
+}
+
 /* hr {
     border: none;
     border-top: 3px double #333;
