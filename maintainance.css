@@ -3,7 +3,7 @@ body{
 }
 
 .bg{
-    background: rgba(0, 0, 0, 0.7) url('../img/istockphoto-1339787499-170667a.jpg');
+    background: rgba(0, 0, 0, 0.7) url('../istockphoto-1339787499-170667a.jpg');
     height: 97vh;
     background-size: cover;
 }
