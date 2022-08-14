@@ -1,0 +1,61 @@
+body{
+    background-color: aquamarine;
+}
+
+.bg{
+    background: rgba(0, 0, 0, 0.7) url('../img/istockphoto-1339787499-170667a.jpg');
+    height: 97vh;
+    background-size: cover;
+}
+
+.div1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.div2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.div3 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.div4{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+.text{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: none;
+    color: gray;
+}
+
+.smallText{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: none;
+    color: bisque;
+}
+
+.img1{
+    width: 200px;
+}
+
+.contactText{
+    color: beige;
+    font-size: 30px;
+}
+
+.contactTextSmall{
+    font-size: 20px;
+    color: bisque;
+}
